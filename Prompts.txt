@@ -1,0 +1,3 @@
+Prepare a presentation on "AI-Powered Resume Analysis and Candidate Ranking System" based on a research paper "Resume Evaluation through Latent Dirichlet Allocation and Natural Language Processing for Effective Candidate Selection", the main slides should be existing systems based on the above research paper and generate proposed system
+
+
